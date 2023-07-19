@@ -1,24 +1,17 @@
-# README
+## Rails Version
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Ruby on Rails project utilizes Rails version 7.0.5. To run this project, you need to have both Ruby and Rails installed on your system.
 
-Things you may want to cover:
+## Running the Rails Project
 
-* Ruby version
+To run the project locally, follow these steps:
 
-* System dependencies
+1. Download or clone the repository.
 
-* Configuration
+2. Open a terminal and navigate to the directory of the Rails project.
 
-* Database creation
+3. Run the command `bundle install` to install all necessary dependencies.
 
-* Database initialization
+4. Start the local server by running `rails server`.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+5. Open a web browser and visit [http://localhost:3000](http://localhost:3000), where you will see a page to upload a file with passwords and view the count of valid passwords.
